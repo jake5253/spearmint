@@ -1,0 +1,7 @@
+Origin: spearmint APT repo
+Label: spearmint-repo
+Codename: vicky
+Architectures: armhf aarch64
+Components: main import upstream backport
+Description: APT repo for ARM versions of Linuxmint
+SignWith: DBF36054D1A8B0329B85DBA6B39D967142845799
